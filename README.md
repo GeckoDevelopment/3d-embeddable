@@ -12,10 +12,10 @@ CDN-Repo to hold our packaged embeddable.
       ></div>
 
       {/* <!--This is the embedable to the widget--> */}
-      <Script src="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@latest/dist-widget/index.js"></Script>
+      <Script src="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.js"></Script>
       <link
         rel="stylesheet"
         type="text/css"
-        href="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@latest/dist-widget/index.css"
+        href="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.css"
       />
 ```
