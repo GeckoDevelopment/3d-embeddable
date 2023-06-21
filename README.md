@@ -3,7 +3,7 @@ CDN-Repo to hold our packaged embeddable.
 
 # For nextjs
 ```js
-div
+<div
         className="aviana-calculator-widget"
         data-url="https://64565f685f9a4f236142355a.mockapi.io/forms/"
         data-form-id="form_id_123"
