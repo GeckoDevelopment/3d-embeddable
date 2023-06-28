@@ -30,7 +30,6 @@ CDN-Repo to hold our packaged embeddable.
         data-modal-description="Add the modal description here"
         ></div>
         
-        {/* <!--This is the embedable to the widget--> */}
         <script src="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.js"></script>
         <link
         rel="stylesheet"
