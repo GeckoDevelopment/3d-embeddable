@@ -5,7 +5,7 @@ CDN-Repo to hold our packaged embeddable.
 ```js
 <div
      class="aviana-calculator-widget"
-     data-url="https://api.calculator.aviana-dev.de/api/form"
+     data-url="https://api.calculator.aviana-dev.de"
      data-form-id="e5a09ed3-f265-43f5-ba32-b71d924409a5"
 >
 
@@ -22,7 +22,7 @@ CDN-Repo to hold our packaged embeddable.
 ```js
 <div
      class="aviana-calculator-widget"
-     data-url="https://api.calculator.aviana-dev.de/api/form"
+     data-url="https://api.calculator.aviana-dev.de"
      data-form-id="e5a09ed3-f265-43f5-ba32-b71d924409a5"
 >
 
