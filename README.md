@@ -12,9 +12,9 @@ CDN-Repo to hold our packaged embeddable.
         {/* <!--This is the embedable to the widget--> */}
         <Script src="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.js"></Script>
         <link
-        rel="stylesheet"
-        type="text/css"
-        href="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.css"
+                rel="stylesheet"
+                type="text/css"
+                href="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.css"
         />
 ```
 
@@ -29,8 +29,8 @@ CDN-Repo to hold our packaged embeddable.
         
         <script src="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.js"></script>
         <link
-        rel="stylesheet"
-        type="text/css"
-        href="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.css"
+                rel="stylesheet"
+                type="text/css"
+                href="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.css"
         />
 ```
