@@ -15,7 +15,7 @@ CDN-Repo to hold our packaged embeddable.
         rel="stylesheet"
         type="text/css"
         href="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.css"
-/>
+        />
 ```
 
 # HTML / Wordpress
@@ -32,5 +32,5 @@ CDN-Repo to hold our packaged embeddable.
         rel="stylesheet"
         type="text/css"
         href="https://cdn.jsdelivr.net/gh/GeckoDevelopment/3d-embeddable@main/dist-widget/index.css"
-/>
+        />
 ```
